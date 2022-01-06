@@ -1,0 +1,17 @@
+class Solution:
+    def gcdOfStrings(self, str1: str, str2: str) -> str:
+        n1 = len(str1)
+        n2 = len(str2)
+        
+        def check(s, prefix):
+            ls = len(s)
+            lp = len(prefix)
+            if ls % lp != 0:
+                return False
+            return prefix * (ls // lp) == s
+        
+        for i in range(min(n1, n2), 0, -1):
+            prefix = str1[:i]
+            if check(str1, prefix) and check(str2, prefix):
+                return prefix
+        return ""
