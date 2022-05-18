@@ -1,6 +1,6 @@
-# 6Companies30days
+# 6Companies30days by Arsh Goyal
 
-# A gist of DSA questions asked by top companies
+# A gist of DSA questions asked by top 6 Companies, solved under 30days(approx) 
 
 Company Name : Goldman Sachs
 Note that code only contains function to solve the numbered problem.
