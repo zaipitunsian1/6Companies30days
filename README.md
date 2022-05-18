@@ -1,6 +1,6 @@
 # 6Companies30days
 
-#A gist of DSA questions asked by top companies
+# A gist of DSA questions asked by top companies
 
 Company Name : Goldman Sachs
 Note that code only contains function to solve the numbered problem.
