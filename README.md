@@ -1,5 +1,7 @@
 # 6Companies30days
 
+h2{A gist of DSA questions asked by top companies}
+
 Company Name : Goldman Sachs
 Note that code only contains function to solve the numbered problem.
 
